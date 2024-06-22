@@ -22,28 +22,32 @@ Answer the following questions based on your understanding of software project m
 
    Answers: 
 
-   1.Initiation 
+   1.Initiation:
    * Define project goals and objectives.
    * Conduct feasibility studies.
    * Identify stakeholders.
    *Develop project charter.
+
    
    2. Planning:
    * Develop project management plan.
    * Define scope, schedule, and budget.
    * Plan resources, communication, and risk management.
+
    
    3. Execution:
    * Assign tasks to team members.
    * Implement project plans.
    * Manage teams and communication.
    * Ensure quality assurance processes are followed.
+
    
    4. Monitoring and Controlling:
    * Track project progress.
    * Perform quality control.
    * Manage changes to scope, schedule, and costs.
    *Report performance to stakeholders.
+   
    
    5. Closure:
    * Finalize all project activities.
